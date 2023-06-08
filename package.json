@@ -1,0 +1,19 @@
+{
+  "name": "ex-res-api",
+  "version": "1.0.0",
+  "description": "REST api for Excellent Research Consult",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2",
+    "mongoose": "^7.2.2",
+    "nodemailer": "^6.9.3"
+  }
+}
